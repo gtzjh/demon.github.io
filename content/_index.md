@@ -20,7 +20,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Latest News & Events
       subtitle:
       text:
       count: 5
@@ -46,8 +46,11 @@ sections:
         folders:
           - publication
         publication_type: 'article'
+      offset: 0
+      order: desc
+      page_type: post
     design:
-      view: citation
+      view: card
       columns: '1'
 
   - block: markdown
