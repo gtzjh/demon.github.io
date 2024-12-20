@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - PI
 ---
 
 Dr. Lyu obtained his BSc from Zhejiang University of Technology in 2012, followed by an MPhil from Wuhan University in 2014, and a PhD in Environmental Engineering from The Hong Kong Polytechnic University (PolyU) in 2018. Prior to his affiliation with HKBU, he held various positions at PolyU from September 2017 to January 2023, including Research Associate, Postdoctoral Fellow, Research Fellow, and Research Assistant Professor. 

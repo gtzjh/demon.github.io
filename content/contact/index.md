@@ -23,32 +23,25 @@ sections:
         street: Room  1227, Academic and Administration Building, HKBU, 224 Waterloo Rd
         city: Kowloon Tong
         region: Hong Kong SAR,
-        # postcode: '94305'
         country: China
-        # country_code: China
       coordinates:
         latitude: '22.336453453392053'
         longitude: '114.18222254543942'
       # directions: nothing
       office_hours:
         - 'Monday to Friday 9:00am – 5:50pm (closed on Saturdays, Sundays and public holidays)'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
     
       # Automatically link email and phone or display as text?
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '1'
 
