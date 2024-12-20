@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Lyu Xiaopu (呂效譜博士)
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: LYU
+last_name: Xiaopu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Department of Geography, Hong Kong Baptist University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Emerging air pollution under low carbon transition
+  - Atmospheric reactive organics and secondary products
+  - Air quality and human health
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD, The Hong Kong Polytechnic University, Hong Kong
+      # institution: 
+      year: 2018
+    - course: MPhil, Wuhan University
+      # institution: 
+      year: 2014
+    - course: BSc, Zhejiang University of Technology
+      # institution: 
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'xiaopu_lyu@hkbu.edu.hk'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,9 +69,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - EASE
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Lyu obtained his BSc from Zhejiang University of Technology in 2012, followed by an MPhil from Wuhan University in 2014, and a PhD in Environmental Engineering from The Hong Kong Polytechnic University (PolyU) in 2018. Prior to his affiliation with HKBU, he held various positions at PolyU from September 2017 to January 2023, including Research Associate, Postdoctoral Fellow, Research Fellow, and Research Assistant Professor. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Throughout his career, he has focused on air quality research, specifically studying atmospheric reactive organics and secondary air pollution. To date, Dr. Lyu has authored over 70 scientific papers published in renowned international journals such as One Earth, Environmental Science & Technology, and Journal of Geophysical Research: Atmospheres. His research has received a total citation count of 3,100+ and an H-index of 30. He has successfully led several competitive research grants, including 2 RGC/GRF, 1 RGC/CRF (co-PI), 1 PPR and 1 NSFC/Young Scientist Fund. Dr. Lyu actively contributes to the scientific community as a Youth Editor for the journal The Innovation, an Editorial Board Member for the journal Frontiers in Sustainable Cities, and as a member of the Australia-China Center for Air Quality Science and Management.
