@@ -7,26 +7,28 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: Job Vacancies
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        We are finding a postdoc fellow, 2 PhD students, and a research assistant for the projects:
+        - Rise in summertime ozone levels in South China: Impacts of long-range transport of Southeast Asia emissions.
+        - What has driven the ozone increase in Hong Kong over the past decade under stringent air pollution control?
+        - Feedback Mechanism of Secondary Reactive Gases Generated in Photochemical Smog to Ozone Formation and Regional Photochemistry
+        If you are interested, please send your CV, where your educational background, research experience, language proficiency and others should be included, and representative publications to us.
+      email: xiaopu_lyu@hkbu.edu.hk
+      phone: (852) 3411 7208
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 12/F, Academic and Administration Building, 15 Baptist University Road
+        city: Kowloon Tong
+        region: Hong Kong SAR
+        # postcode: '94305'
+        country: China
+        # country_code: China
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '22.3365'
+        longitude: '114.2820'
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        - 'Monday to Friday 9:00am – 5:50pm (closed on Saturdays, Sundays and public holidays)'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
