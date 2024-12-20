@@ -10,22 +10,25 @@ sections:
       title: Job Vacancies
       text: |-
         We are finding a postdoc fellow, 2 PhD students, and a research assistant for the projects:
+
         - Rise in summertime ozone levels in South China: Impacts of long-range transport of Southeast Asia emissions.
         - What has driven the ozone increase in Hong Kong over the past decade under stringent air pollution control?
-        - Feedback Mechanism of Secondary Reactive Gases Generated in Photochemical Smog to Ozone Formation and Regional Photochemistry
+        - Feedback mechanism of secondary reactive gases generated in photochemical smog to ozone formation and regional photochemistry
+  
         If you are interested, please send your CV, where your educational background, research experience, language proficiency and others should be included, and representative publications to us.
+
       email: xiaopu_lyu@hkbu.edu.hk
       phone: (852) 3411 7208
       address:
-        street: 12/F, Academic and Administration Building, 15 Baptist University Road
+        street: 13/F Academic and Administration Building, Baptist University Road Campus
         city: Kowloon Tong
-        region: Hong Kong SAR
+        region: Hong Kong SAR,
         # postcode: '94305'
         country: China
         # country_code: China
       coordinates:
-        latitude: '22.3365'
-        longitude: '114.2820'
+        latitude: '222.336453453392053'
+        longitude: '114.18222254543942'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday to Friday 9:00am – 5:50pm (closed on Saturdays, Sundays and public holidays)'
