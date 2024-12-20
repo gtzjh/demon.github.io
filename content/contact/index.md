@@ -27,9 +27,9 @@ sections:
         country: China
         # country_code: China
       coordinates:
-        latitude: '222.336453453392053'
+        latitude: '22.336453453392053'
         longitude: '114.18222254543942'
-      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # directions: nothing
       office_hours:
         - 'Monday to Friday 9:00am – 5:50pm (closed on Saturdays, Sundays and public holidays)'
       #contact_links:
@@ -59,15 +59,15 @@ sections:
       text:
     design:
       columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
+      # background:
+      #   image: 
+      #     filename: contact.jpg
+      #     filters:
+      #       brightness: 1
+      #     parallax: false
+      #     position: center
+      #     size: cover
+      #     text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
