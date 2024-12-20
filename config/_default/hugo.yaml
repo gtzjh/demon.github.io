@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: EASE Research Group # Website name
-baseURL: 'https://demon.github.io' # Website URL
+baseURL: 'https://example.com' # Website URL
 
 ############################
 ## LANGUAGE
