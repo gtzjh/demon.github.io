@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Lyu Xiaopu (呂效譜博士)
+title: Dr. Xiaopu LYU (呂效譜博士)
 
 # Full Name (for SEO)
 first_name: LYU
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: PhD, The Hong Kong Polytechnic University, Hong Kong
+    - course: Ph.D, The Hong Kong Polytechnic University, Hong Kong
       # institution: 
       year: 2018
     - course: MPhil, Wuhan University
@@ -48,17 +48,17 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.hk/citations?user=porzF74AAAAJ&hl=en&oi=sra
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: assets/files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

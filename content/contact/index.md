@@ -18,9 +18,9 @@ sections:
         If you are interested, please send your CV, where your educational background, research experience, language proficiency and others should be included, and representative publications to us.
 
       email: xiaopu_lyu@hkbu.edu.hk
-      phone: (852) 3411 7208
+      phone: +852 34117208
       address:
-        street: 13/F Academic and Administration Building, Baptist University Road Campus
+        street: Room  1227, Academic and Administration Building, HKBU, 224 Waterloo Rd
         city: Kowloon Tong
         region: Hong Kong SAR,
         # postcode: '94305'
