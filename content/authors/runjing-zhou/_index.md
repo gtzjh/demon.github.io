@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Miss. Runjing ZHOU
+title: Runjing ZHOU
 
 # Full Name (for SEO)
 first_name: ZHOU
@@ -10,7 +10,7 @@ last_name: Runjing
 superuser: true
 
 # Role/position
-role: Ph.D student
+# role: Ph.D student
 
 # Organizations/Affiliations
 organizations:
