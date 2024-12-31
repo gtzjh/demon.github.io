@@ -19,23 +19,4 @@ sections:
         We focus on Emerging Air pollution and Sustainable Environment.
     design:
       columns: '1'
-  
-  - block: collection
-    content:
-      title: Latest News & Events
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
 ---
