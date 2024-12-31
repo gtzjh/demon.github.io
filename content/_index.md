@@ -17,6 +17,8 @@ sections:
         EASE, the name of our research group, is an acronym for Emerging Air pollution and Sustainable Environment.
         
         We focus on Emerging Air pollution and Sustainable Environment.
+    design:
+      columns: '1'
   
   - block: collection
     content:
@@ -35,30 +37,5 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1'
-
-  - block: collection
-    content:
-      title: Latest Publications
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Our team →" %}}
-    design:
       columns: '1'
 ---
